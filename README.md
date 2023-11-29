@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm passionate about Android development, and I lo
 
 ### Happy Place App
 
+You can check these projects in my repository
+
 ## 🌱 Currently Learning
 
 I'm always striving to learn and improve. Currently, I'm focused on:
