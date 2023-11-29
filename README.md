@@ -10,28 +10,23 @@ Welcome to my GitHub profile! I'm passionate about Android development, and I lo
 
 ## 📱 Projects
 
-### [Project Name 1](link-to-project-1)
-[![Project Name 1](project-1-thumbnail.jpg)](link-to-project-1)
+### 7 Minute Workout App
 
-Description of the project and its key features.
+### Weather App
 
-### [Project Name 2](link-to-project-2)
-[![Project Name 2](project-2-thumbnail.jpg)](link-to-project-2)
-
-Description of the project and its key features.
+### Happy Place App
 
 ## 🌱 Currently Learning
 
 I'm always striving to learn and improve. Currently, I'm focused on:
 
-- [Topic 1]
-- [Topic 2]
+- Making a new Project - Trellone (Trello Clone)
+- Data Structure And Algorithm (JAVA)
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
-- Email: your.email@example.com
+- LinkedIn: [GAUTAM TUTEJA](https://www.linkedin.com/in/gautam-tuteja/)
+- Email: gautamtuteja883@gmail.com
 
 ## 🤝 Open for Collaboration
 
