@@ -1,6 +1,6 @@
 # 👋 Hello, I'm GAUTAM TUTEJA  👨‍💻
 
-Welcome to my GitHub profile! I'm passionate about Android development, and I love creating apps that provide value and a great user experience. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm passionate about Android development, and I love creating apps that provide value and a great user experience. Even having great skills with probelm solving for DSA questions.
 
 ## 🚀 Skills
 
