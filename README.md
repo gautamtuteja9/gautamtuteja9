@@ -22,7 +22,7 @@ You can check these projects in my repository
 
 I'm always striving to learn and improve. Currently, I'm focused on:
 
-- Making a new Project - Trellone (Trello Clone)
+- Learning Flutter 
 - Data Structure And Algorithm (JAVA)
 
 ## 📫 Let's Connect
