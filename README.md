@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm passionate about Android development, and  I a
 
 ## 🚀 Skills
 
-- **Languages:** Kotlin, Java , C , C++ , Python
--  **Tools:** Android Studio, Git, Gradle
-- **Libraries & Frameworks:** Android SDK, Jetpack (ViewModel, LiveData, Room, Navigation), Retrofit, Kotlin Coroutines
+- **Languages:** Dart, Kotlin, Java , C , C++ , Python
+-  **Tools:** Android Studio, Git, Gradle , VS Code
+- **Libraries & Frameworks:** Android SDK, Flutter , Google Firebase , Google Maps , Retrofit 
 
 ## 📱 Projects
 
