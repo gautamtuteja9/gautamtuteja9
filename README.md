@@ -4,17 +4,17 @@ Welcome to my GitHub profile! I'm passionate about Android development, and  I a
 
 ## 🚀 Skills
 
-- **Languages:** Dart, Kotlin, Java , C , C++ , Python
+- **Languages:** Dart, Flutter , Kotlin, Java , C , C++ , Python
 -  **Tools:** Android Studio, Git, Gradle , VS Code
 - **Libraries & Frameworks:** Android SDK, Flutter , Google Firebase , Google Maps , Retrofit 
 
 ## 📱 Projects
 
+### Trellone
+
+### Zwitter
+
 ### 7 Minute Workout App
-
-### Weather App
-
-### Happy Place App
 
 You can check these projects in my repository
 
